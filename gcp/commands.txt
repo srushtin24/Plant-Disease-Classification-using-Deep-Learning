@@ -1,0 +1,1 @@
+gcloud functions deploy predict --runtime python311 --trigger-http --memory 512 --project unique-voyage-474518-f4
